@@ -168,5 +168,5 @@ function runGameLoop() {
 	console.log('The Dark AI watches as you walk away... For now.');
 }
 
-alert('The Dark AI is waiting in the console.\nOpen it now, or play without seeing the battle.');
+alert('The Dark AI is waiting in the console.\nOpen it now (F12 or Ctrl+Shift+I), or play without seeing the battle.');
 runGameLoop();
